@@ -1,4 +1,4 @@
-# Web Scraping de Produtos com Python
+# Bot Web Scraping de Produtos Kabum
 
 Este é um script simples em Python para realizar web scraping em páginas de produtos e extrair informações como nome do produto, preço à vista, e URL encurtada usando TinyURL.
 
