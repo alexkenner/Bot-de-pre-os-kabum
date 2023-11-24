@@ -11,7 +11,7 @@ Este é um script simples em Python para realizar web scraping em páginas de pr
 
 1. **Clone o Repositório:**
     ```bash
-    [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/alexkenner/bot-web-scraping-kabum.git)
+    git clone https://github.com/alexkenner/bot-web-scraping-kabum.git
     cd seu-repositorio
     ```
 
