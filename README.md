@@ -22,7 +22,7 @@ Este é um script simples em Python para realizar web scraping em páginas de pr
 
 3. **Execute o Script:**
     ```bash
-    python webscraping_script.py
+    python kabum.py
     ```
 
 4. **Saída Esperada:**
